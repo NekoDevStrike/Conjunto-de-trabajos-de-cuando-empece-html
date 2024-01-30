@@ -1,0 +1,28 @@
+header{
+	background: cyan;
+}
+#central{
+	background: #a00a0f;
+}
+.segundo
+footer{
+	background: gray;
+}
+ol{
+	color: red;
+	list-style-type: upper-roman;
+}
+td{
+	border: black solid 2px;
+	background: white;
+	background: rgba(255, 255, 255, 0.4);
+}
+th{
+	border: black solid 2px;
+	background: white;
+	background: rgba(255, 255, 255, 0.4);
+}
+table{
+	border: black solid 2px;
+	background-image: url("https://img.pikbest.com/backgrounds/20200102/modern-elegant-dark-geometric-triangle-pattern-background-v_1629954jpg!w700wp")
+}

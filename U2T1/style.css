@@ -1,0 +1,28 @@
+
+form{
+	border: black 3px solid;
+	text-align: center;
+	width: 450px;
+	height: 160px;
+	display: inline-block;
+	margin: 50px;
+	padding: 20px;
+	background: rgba(255, 255, 255, .6);
+	border-radius: 30px;
+	box-shadow: -10px 10px rgba(0, 0, 0, 0.7);
+}
+.formulario{
+	text-align: center;
+	border: pink solid;
+}
+
+body{
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1821118302976521066/A0618DF09DF829F5E03E9E673B9D5C51350D37D9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+input{
+	text-align: center;
+}
+

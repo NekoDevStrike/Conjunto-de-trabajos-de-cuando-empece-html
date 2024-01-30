@@ -1,0 +1,9 @@
+#formulario{
+	width: 350px;
+	background: darkgray;
+	border-radius: 5px;
+	padding: 1%;
+}
+#header{
+	text-align: center;
+}
